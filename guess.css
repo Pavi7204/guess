@@ -1,0 +1,21 @@
+body{
+    background-image: url('1000_F_477159595_mnoafipKT7UnCJbRGq8WGu9WhBTwmMdf.jpg');
+    background-size: cover;
+    
+}
+.container{
+    background-color: rgb(243, 170, 228);
+    width: 350px;
+    height: 160px;
+    border-radius: 10px;
+    
+}
+button:hover{
+    background-color: lightskyblue;
+}
+h2{
+    background-color: rgb(29, 168, 172);
+    color: rgb(226, 232, 120);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
